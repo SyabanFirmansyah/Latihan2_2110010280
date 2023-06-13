@@ -9,27 +9,27 @@ public class Mahasiswa {
         this.prodi = prodi;
     }
 
-    public void setNpm(String npm) {
+    public void setnpm(String npm) {
         this.npm = npm;
     }
 
-    public void setNama(String nama) {
+    public void setnama(String nama) {
         this.nama = nama;
     }
 
-    public void setProdi(String prodi) {
+    public void setprodi(String prodi) {
         this.prodi = prodi;
     }
 
-    public String getNpm() {
+    public String getnpm() {
         return npm;
     }
 
-    public String getNama() {
+    public String getnama() {
         return nama;
     }
 
-    public String getProdi() {
+    public String getprodi() {
         return prodi;
     }
    
