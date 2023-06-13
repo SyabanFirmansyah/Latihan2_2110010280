@@ -38,6 +38,5 @@ public class Mahasiswa {
         System.out.println("NPM       : "+npm);
         System.out.println("NAMA      : "+nama);
         System.out.println("PRODI     : "+prodi);
-    }
-    
+    }    
 }

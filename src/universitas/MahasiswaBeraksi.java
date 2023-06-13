@@ -1,14 +1,10 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package universitas;
 
-/**
- *
- * @author LENOVO BC
- */
 public class MahasiswaBeraksi {
+    public static void main(String[] args) {
+        Mahasiswa iman1 = new Mahasiswa("2110010280","Syaban Firmansyah","FTI");
+        
+        iman1.getDetail();
+    }
     
 }
